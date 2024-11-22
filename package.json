@@ -17,8 +17,7 @@
     "serve-storybook": "run-s storybook:*",
     "test-storybook:ci": "start-server-and-test serve-storybook http://127.0.0.1:6006 test-storybook",
     "test": "jest --watch",
-    "test:ci": "jest --ci",
-    "build-storybook": "storybook build"
+    "test:ci": "jest --ci"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.1",
