@@ -12,7 +12,7 @@ export const Features = () => {
     >
       <CardHeader>
         <CardTitle>Key Features</CardTitle>
-        <CardDescription>What's included in this starter</CardDescription>
+        <CardDescription>What&apos;s included in this starter</CardDescription>
       </CardHeader>
       <CardContent>
         <ul className="space-y-4">

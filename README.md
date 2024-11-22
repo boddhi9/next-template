@@ -17,8 +17,6 @@ A modern and minimal Next.js 15 starter template, built to accelerate your devel
 - **Toast Notifications**: Prebuilt toast component for user feedback.
 - **Absolute Imports**: Use `@` as the root for imports.
 
----
-
 ## Getting Started
 
 ### Quick Start
@@ -31,8 +29,6 @@ npm run dev
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) to see the template in action.
-
----
 
 ## Project Structure
 
@@ -55,8 +51,6 @@ next-template/
 ├── tsconfig.json       # TypeScript configuration
 
 ```
-
----
 
 ## Scripts
 
@@ -160,8 +154,6 @@ Run Storybook tests in CI mode:
 npm run test-storybook:ci
 ```
 
----
-
 ## Documentation
 
 Explore the frameworks and tools included in the template:
@@ -170,8 +162,6 @@ Explore the frameworks and tools included in the template:
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [shadcn/ui Documentation](https://ui.shadcn.com/docs)
 - [Storybook Documentation](https://storybook.js.org/docs/react)
-
----
 
 ## License
 
